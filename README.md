@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a system administrator with former jobs as webmaster, webdeveloper and CAD support. 
+
+- I’m currently working at University of **Bern** (Switzerland) - Institute for Medical Education.
+- I love to code in Bash and PHP to automate my sysadmin's daily life
+- private projects are around 
+  - PHP stuff for Website analytics, monitoring, caching
+  - Javascript: 5.1 surround player, password check
+  - Docs: <https://www.axel-hahn.de/docs/>
+- My website: <https://www.axel-hahn.de/> (German only)
+
 <!--
 **axelhahn/axelhahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
